@@ -23,7 +23,7 @@ My projects and areas of expertise:
 <a href="https://github.com/tensorflow/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="70" height="70" alt="Tensorflow logo" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/keras-team/keras"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="54" height="70" alt="Keras logo" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/imagej"><img src="https://github.com/fiji/fiji/blob/master/images/fiji-logo-1.0-128x128.png" width="70" height="70" alt="Fiji logo" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/rstudio/shiny/"><img src="https://github.com/rstudio/shiny/blob/master/man/figures/logo.png" width="70" height="70" alt="Shiny logo" /></a>&nbsp;&nbsp;&nbsp;
+
 
 
 <!---
